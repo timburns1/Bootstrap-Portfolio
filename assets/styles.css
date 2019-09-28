@@ -1,0 +1,57 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+    max-height: 100%;
+    background-image: url("images/4k-wallpaper-clouds-dawn-1261728.jpg");
+    height: 100%;
+    position: relative;
+}
+
+#me{
+  padding: 10px;
+}
+
+.jumbotron{
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.cor{
+  float: left
+}
+
+h2{
+  color: azure
+}
+.box-set{
+  float: 
+  
+}
+
+
+
+.navbar .navbar-expand-lg .navbar-light .bg-light{
+    background-color: blue
+}
+
+p{
+    margin-top: 10px;
+}
+
+#footer{
+
+  color:#ffffff;
+  background-color: #777777;
+  height: 150%;
+  padding: 8px;
+  text-align: center;
+  border-top-color: #4aaaa5;
+  border-top-style: outset;
+  width: 100%;
+  
+
+}
