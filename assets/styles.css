@@ -53,6 +53,28 @@ p{
   border-top-style: outset;
   width: 100%;
   bottom: 0;
+  position: fixed;
   
+}
 
+.box-set{
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+}
+
+#crystals{
+  position: relative;
+  text-align: center;
+  color:ghostwhite;
+  padding:10px;
+ 
+}
+
+#center{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #4aaaa5
 }
