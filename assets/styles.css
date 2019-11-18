@@ -68,6 +68,7 @@ p{
   text-align: center;
   color:ghostwhite;
   padding:10px;
+  float: left;
  
 }
 
@@ -77,5 +78,9 @@ p{
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #4aaaa5;
-  width: 15.5%;
+  width: 91%;
+}
+
+.bg-light{
+  background-color: darkgray!important;
 }
